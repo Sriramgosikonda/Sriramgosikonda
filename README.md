@@ -1,16 +1,18 @@
-## Hi there 👋
+# 👋 Hi, I'm Sriram Gosikonda!
 
-<!--
-**Sriramgosikonda/Sriramgosikonda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Electronics & Communication Engineer | 💻 Aspiring Software Developer  
+🚀 Passionate about AI, Machine Learning, and Full-Stack Development  
 
-Here are some ideas to get you started:
+## 🌟 Projects
+- 🧳 [Travel Package System](https://github.com/Sriramgosikonda/Travel-package-system) — A Python-based travel management app with booking and payment features.
+- 😎 [Face Attendance System](https://github.com/Sriramgosikonda/Face-Attendance-_sriram-) — A face recognition-based attendance tracker using OpenCV.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 Skills
+**Languages:** Python, Java, C, JavaScript  
+**Frameworks:** TensorFlow, Keras, React, Django  
+**Tools:** MySQL, Git, VS Code  
+
+## 📫 Connect with Me
+- 💼 [LinkedIn](http://www.linkedin.com/in/sriram-gosikonda-111521271)  
+- 🌐 [Portfolio](http://sriram14.netlify.app)  
+- 📧 Email: 228R5A0408@gmail.com  
