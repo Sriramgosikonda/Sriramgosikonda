@@ -62,12 +62,8 @@ _Diploma in Electronics and Instrumentation Engineering_
 - 🗣️ Excellent communication and presentation skills.  
 - 🤝 Team collaboration and agile participation in technical initiatives.  
 
----
 
-## 📊 GitHub Stats
 
-![Sriram's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sriramgosikonda&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sriramgosikonda&layout=compact&theme=radical)
 
 ---
 
